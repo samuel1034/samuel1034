@@ -1,5 +1,5 @@
 # 💫 About Me:
-Samuel Fuentes ❄️<br>A passionate coder with an insatiable curiosity for technology. <br>Embracing challenges, crafting elegant solutions, and constantly learning.<br>Let's embark on a coding adventure together! 😎
+Samuel Fuentes ❄️<br>A passionate coder with an insatiable curiosity for technology. <br>Embracing challenges, crafting elegant solutions, and constantly learning and I also speak 5 languages fluently.<br>Let's embark on a coding adventure together! 😎
 
 
 ## 🌐 Socials:
