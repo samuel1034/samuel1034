@@ -36,9 +36,9 @@ Samuel Fuentes ❄️<br>A passionate coder with an insatiable curiosity for tec
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=samuel1034&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=samuel1034&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel1034&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=samuel1034&theme=radical&hide_border=true&include_all_commits=true&count_private=true&v=2)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=samuel1034&theme=radical&hide_border=true&v=2)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel1034&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&v=2)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=samuel1034&theme=radical&no-frame=false&no-bg=true&margin-w=4)
