@@ -23,7 +23,7 @@ Samuel Fuentes ❄️<br>A passionate coder with an insatiable curiosity for tec
 
 ### Frameworks and Libraries
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="45" height="40"/>
-<img src="https://seeklogo.com/images/B/blazor-logo-B6B0844B72-seeklogo.com.png" alt="Blazor" width="45" height="40"/>
+<img src="https://th.bing.com/th/id/R.0b3b740c2e3d35845ba519ae7a4dec7e?rik=1fpjZGtNyy7NvQ&pid=ImgRaw&r=0" alt="Blazor" width="45" height="40"/>
 
 ### Backend Development
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> <img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="Django" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/800px-Laravel.svg.png" alt="Laravel" width="40" height="40"/>
