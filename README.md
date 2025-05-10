@@ -29,7 +29,7 @@ Fluent in **Spanish, English, French, Russian, Portuguese, and Italian** — bec
 
 
 ## 🧰 Languages and Tools
-
+<div style="margin-top: 20px; display: flow-root;">
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="padding-right:10px;"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40" style="padding-right:10px;"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" style="padding-right:10px;"/>
@@ -47,7 +47,7 @@ Fluent in **Spanish, English, French, Russian, Portuguese, and Italian** — bec
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" style="padding-right:10px; margin-top: 15px;"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40" style="max-width: 100%;margin-top: 10px;"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" style="padding-right:10px; margin-top: 15px;"/>
-
+<div/>
 <br/>
           
 
