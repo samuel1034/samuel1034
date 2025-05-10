@@ -43,10 +43,12 @@ Fluent in **Spanish, English, French, Russian, Portuguese, and Italian** — bec
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40" style="padding-right:10px;"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40" style="padding-right:10px;"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="40" height="40" style="padding-right:10px;"/>
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40" style="padding-right:10px;"/>
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" style="padding-right:10px;"/>
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40" style="padding-right:10px;"/>
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" style="padding-right:10px;"/>
+<div style="margin-top: 20px;"> <!-- Adjust pixel value as needed -->
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40" style="padding-right:10px;"/>
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" style="padding-right:10px;"/>
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40" style="padding-right:10px;"/>
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" style="padding-right:10px;"/>
+</div>
 <br/>
           
 
