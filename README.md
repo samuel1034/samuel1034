@@ -2,7 +2,7 @@
 # 💫 About Me:
 
 ### **Samuel Fuentes** ❄️  
-**Senior Full-Stack Developer** | **Informatics Engineer** | **Polyglot Dev (6 languages)** 🌍  
+**Full-Stack Developer** | **Informatics Engineer** | **Polyglot Dev (6 languages)** 🌍  
 
 A passionate technologist with an insatiable curiosity for **solving problems at scale**. I thrive on crafting **elegant, high-impact solutions** using modern stacks (React, Node.js, Python, Cloud/AI) while bridging global teams.  
 
